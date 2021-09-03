@@ -2,11 +2,7 @@
 % Please edit documentation in R/fetchDST.R
 \name{fetch_DST}
 \alias{fetch_DST}
-\title{Get DST data from clauciorank github: https://github.com/clauciorank/sinanBRFiles
-the original ones could be find at:
-http://indicadoreshepatites.aids.gov.br/;
-http://indicadoressifilis.aids.gov.br/;
-http://indicadores.aids.gov.br/;}
+\title{Get DST data from aids.gov.br}
 \usage{
 fetch_DST(agravo)
 }

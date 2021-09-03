@@ -1,4 +1,5 @@
-#' Get DST data from clauciorank github: https://github.com/clauciorank/sinanBRFiles
+#' @title Get DST data from aids.gov.br
+#' @description  Get DST data from clauciorank github: https://github.com/clauciorank/sinanBRFiles
 #' the original ones could be find at:
 #' http://indicadoreshepatites.aids.gov.br/;
 #' http://indicadoressifilis.aids.gov.br/;

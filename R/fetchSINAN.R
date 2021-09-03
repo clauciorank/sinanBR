@@ -6,8 +6,8 @@
 #' @param uf character sigla estado: 'SC', 'PR', 'ALL'
 #'
 #' @examples
-#' data <- fetch_SINAN(2018, 2020, 'DENG', 'ALL', directory)
-#' data <- fetch_SINAN(2015, 2020, 'HANS', 'TO', directory)
+#' data <- fetch_SINAN(2018, 2020, 'DENG', 'ALL')
+#' data <- fetch_SINAN(2015, 2020, 'HANS', 'TO')
 
 
 
