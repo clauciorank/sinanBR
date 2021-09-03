@@ -6,7 +6,7 @@ Extração de dados do Sistema de Informações de Agravos e Notificações
 
 ```
 library(devtools)
-install.github('clauciorank/sinanBR')
+install_github('clauciorank/sinanBR')
 
 ```
 
