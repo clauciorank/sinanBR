@@ -1,0 +1,15 @@
+Package: sinanBR
+Type: Package
+Title: Pacote para extração dos dados do SINAN 2014-2020 utilizando R
+Version: 1.0.0
+Author: Claucio Rank
+Maintainer: https://github.com/clauciorank
+Description: Extração de dados de doenças infecciosas por município presentes no Sistema Nacional de Agravos e Notificação 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    read.dbc,
+    RCurl
+RoxygenNote: 7.1.1

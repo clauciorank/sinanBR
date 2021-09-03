@@ -1,0 +1,28 @@
+{
+    "id": "48F0D107",
+    "path": "~/Documents/datasus/package/sinanBR/man/fetch_DST.Rd",
+    "project_path": "man/fetch_DST.Rd",
+    "type": "r_doc",
+    "hash": "1065858674",
+    "contents": "",
+    "dirty": false,
+    "created": 1630676398466.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1630678328,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1630678328,
+    "read_only": true,
+    "read_only_alternatives": [
+        "R/fetchDST.R"
+    ]
+}
